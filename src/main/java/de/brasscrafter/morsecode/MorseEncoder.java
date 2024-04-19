@@ -1,3 +1,5 @@
+package de.brasscrafter.morsecode;
+
 public class MorseEncoder {
     String[] morseAlphabet;
     String msg, morse;
